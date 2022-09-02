@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2? family= Roboto & display=swap");
+
+* {
+    font-family: "Poppins", sans-serif;
+    text-decoration: none !important;
+}
+
+body{
+    background-image: url("./Wallpapers/p8.jpg");
+   /* background-color: #327753;  /* c2e3ec  1a4b31*/
+}
+
+h1{
+    color: #fff;
+    font-weight: 500;
+    padding-top: 3%;
+    text-transform: uppercase;
+    margin-left: 4rem;
+}
+
+h5{
+    color: #fff;
+    font-style: italic;
+    font-size: 8px;
+    opacity: 0.9;
+    margin-left: 4rem;
+}
+
+div#projeto1{
+    height: 12rem;
+    width: 12rem;
+    margin-right: 20px;
+    border-radius: 2px;
+    background-color: #343446;
+}
+
+div#projeto2{
+    height: 12rem;
+    width: 12rem;
+    color: white;
+    padding-top: 4rem; /*Afasta o icon*/
+    margin-right: 20px;
+    border-radius: 2px;
+    line-height: 30px; /* Ficar no meio e separa o icon do texto */ 
+    text-align: center; /* Ficar no meio */
+    background-color: #343446;
+}
+
+#projeto1:hover{ 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    background-color: #2a2a3a; 
+    transition: 0.5s;
+    opacity: 0.7;
+}
+
+#projeto2:hover{ 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    background-color: #2a2a3a; 
+    transition: 0.5s;
+    opacity: 0.7;
+}
+
+.WorldV{
+    height: 200px;
+    width: 200px;
+}
+
+
+@media (max-width: 999px){
+
+    body{
+        background-position: center top;
+        background-repeat:repeat-y;
+    }
+
+    .container{
+        padding-top: 3rem;
+    }
+
+    .col{
+        padding-top: 1rem;
+    }
+}
+
+
+
