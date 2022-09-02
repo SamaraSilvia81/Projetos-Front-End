@@ -26,6 +26,10 @@ h5{
     margin-left: 4rem;
 }
 
+.container{
+        padding-top: 3rem;
+    }
+
 div#projeto1{
     height: 12rem;
     width: 12rem;
