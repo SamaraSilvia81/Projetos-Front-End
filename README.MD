@@ -4,7 +4,7 @@ Este repositório tem como por objetivo apresentar a minha evolução na program
  Link da hospedagem do site: https://projetos-front-end.vercel.app/
  
 ## Conteúdo
-- <a href="https://worldsvillians.netlify.app/">World´s Villians</a>
+- <a href="https://worldsvillians52.netlify.app/world%C2%B4s%20villians/home">World´s Villians</a>
   - Html 5 e CSS 
   - Vanilla JS
   - Framework Bootstrap
