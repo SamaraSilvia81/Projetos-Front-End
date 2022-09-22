@@ -31,3 +31,5 @@ englobar os dados, a qual fizemos no html mostrar todas as atividades, juntament
 - criarTarefa();
 - atualizarTarefa(): Essa função serve para puxar os dados e quando o usário clicando no checkbox, a funçaõ se encarregará de emitir um alerta para o Back4App atualizando o valor como "True";
 - removerTarefa();
+
+Tudo isso foi possível com os códigos base feitos pela ferramenta Back4App.
