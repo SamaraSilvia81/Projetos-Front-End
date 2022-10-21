@@ -1,5 +1,8 @@
 ![ProjetoToDoList](https://user-images.githubusercontent.com/100232025/197286061-32e334c5-5d7a-4335-9068-c04cf85e627a.gif)
+
 # TO DO LIST
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=4a309d&style=for-the-badge)
 
 # ABOUT US
 > Este foi um projeto desenvolvido no segundo período da minha faculdade, colocando em prática partes do meu aprendizado na disciplina de Programação Web.
