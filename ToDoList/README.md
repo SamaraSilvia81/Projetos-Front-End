@@ -27,12 +27,12 @@ Para a desenvoltura do site foi feito um HTMl básico, contendo título, input, 
 que outra focada em, através do JS, alocar todos os dados. 
 
 No JavaScript foram estipuladas funções de:
-- gerarLista(): Usando recursos como inner.html/createTextNode/AppendChild/Onclick/Checked, além de 
+- `gerarLista():` Usando recursos como inner.html/createTextNode/AppendChild/Onclick/Checked, além de 
 estruturas de repetição como For para, como o nome da função diz, gerar a criação de uma lista.
-- exibirTarefa(): Essa função é mais um display, funcionando para através da div que vai
+- `exibirTarefa():` Essa função é mais um display, funcionando para através da div que vai
 englobar os dados, a qual fizemos no html mostrar todas as atividades, juntamente com o botão "remover". Isso pré-estabelecido na função anterior.
-- criarTarefa();
-- atualizarTarefa(): Essa função serve para puxar os dados e quando o usário clicando no checkbox, a funçaõ se encarregará de emitir um alerta para o Back4App atualizando o valor como "True";
-- removerTarefa();
+- `criarTarefa();`
+- `atualizarTarefa():` Essa função serve para puxar os dados e quando o usário clicando no checkbox, a funçaõ se encarregará de emitir um alerta para o Back4App atualizando o valor como "True";
+- `removerTarefa();`
 
 Tudo isso foi possível com os códigos base feitos pela ferramenta Back4App.
