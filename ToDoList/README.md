@@ -18,7 +18,7 @@ O site funciona como uma grande lista de afazres, no qual, por meio de uma inter
   - Lógica de Programação 
   - Vanilla JS
  - Ferramentas Externas
-   - Boosttrap - Framework usado para dar um suporte na estilziação CSS.
+   - Bootstrap - Framework usado para dar um suporte na estilziação CSS.
    - Back4App - Usado para armazenar todos os dados recolhidos no site e sistematizar os checkout.
   
 ## Implementação das Ferramentas e Tecnologias
