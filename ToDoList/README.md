@@ -7,8 +7,6 @@
 # ABOUT US
 > Este foi um projeto desenvolvido no segundo período da minha faculdade, colocando em prática partes do meu aprendizado na disciplina de Programação Web.
 
-Link da hospedagem do site: https://projetos-front-end.vercel.app
-
 ## Estrutura do Site
 
 O site funciona como uma grande lista de afazres, no qual, por meio de uma interface simples e minimalista o usuário consegue executar as seguintes atividades:
@@ -39,3 +37,9 @@ englobar os dados, a qual fizemos no html mostrar todas as atividades, juntament
 - `removerTarefa();`
 
 Tudo isso foi possível com os códigos base feitos pela ferramenta Back4App.
+
+## Deploy da Aplicação
+
+![Capa de Projetos Front](https://user-images.githubusercontent.com/100232025/197289029-0dfedf28-b91d-4417-a4fe-e1c4f05af452.gif)
+
+Link da hospedagem do site: https://projetos-front-end.vercel.app
