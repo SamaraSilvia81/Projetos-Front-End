@@ -1,3 +1,4 @@
+![ProjetoToDoList](https://user-images.githubusercontent.com/100232025/197286061-32e334c5-5d7a-4335-9068-c04cf85e627a.gif)
 # TO DO LIST
 Este foi um projeto desenvolvido no segundo período da minha faculdade, colocando em prática partes do meu aprendizado na disciplina de Programação Web.
 
