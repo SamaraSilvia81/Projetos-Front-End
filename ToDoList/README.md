@@ -1,4 +1,4 @@
-![ProjetoToDoList](https://user-images.githubusercontent.com/100232025/197286855-8d84884c-de8c-42a8-9c52-4ad6b2916583.gif)
+![ProjetoToDoList](https://user-images.githubusercontent.com/100232025/197286961-b1ab26da-d049-4ffc-8e63-bc9b59243de9.gif)
 
 # TO DO LIST
 
