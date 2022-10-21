@@ -1,0 +1,72 @@
+#viloesSpider{
+    background-color: #2a2a3a;
+  }
+
+  #marvel{
+    margin-left: 25rem;
+  }
+
+  .carousel-controlsAvengers {
+    position: absolute;
+    top: 140%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    z-index: 1;
+    font-size: 30px;
+  }
+
+  .carousel-controls-spider {
+    position: absolute;
+    top: 248%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    z-index: 1;
+    font-size: 30px;
+  }
+
+  .carousel-controls-xmen{
+    position: absolute;
+    top: 140%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    z-index: 1;
+    font-size: 30px;
+  }
+
+  .carousel-controls-quarteto {
+    position: absolute;
+    top: 140%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    z-index: 1;
+    font-size: 30px;
+  }
+
+  .carousel-controls-guardioes {
+    position: absolute;
+    top: 140%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    z-index: 1;
+    font-size: 30px;
+  }

@@ -1,0 +1,16 @@
+    #disney{
+        margin-left: 20rem;
+    }
+
+  .carousel-controlsDisney {
+    position: absolute;
+    top: 140%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 12px;
+    z-index: 1;
+    font-size: 30px;
+  }
