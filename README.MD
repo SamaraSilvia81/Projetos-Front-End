@@ -1,3 +1,5 @@
+![Capa de Projetos Front](https://user-images.githubusercontent.com/100232025/197270887-122429c1-c506-4d35-95c1-ed356c977423.gif)
+
 # Projetos Front-End
 Este repositório tem como por objetivo apresentar a minha evolução na programção front-end, através de projetos individuais que envolvem os meus conhecimentos adquiridos na faculdades e em cursos/bootcamps a parte.
 
