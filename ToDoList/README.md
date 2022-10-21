@@ -10,11 +10,11 @@
 ## Estrutura do Site
 
 O site funciona como uma grande lista de afazres, no qual, por meio de uma interface simples e minimalista o usuário consegue executar as seguintes atividades:
-- Adicionar Atividades: Apenas preenchendo o input (caixa de entrada) e pressionando o botão com símbolo de push;
-- Excluir Atividades: Apenas clicando no botão de "remover";
-- Check: Ato de validar uma atividade feita;
+- `Adicionar Atividades:` Apenas preenchendo o input (caixa de entrada) e pressionando o botão com símbolo de push;
+- `Excluir Atividades:` Apenas clicando no botão de "remover";
+- `Check:` Ato de validar uma atividade feita;
  
-## Conteúdo
+## Ferramentas e Tecnologias Usadas
 - JavaScript
   - Lógica de Programação 
   - Vanilla JS
@@ -22,7 +22,7 @@ O site funciona como uma grande lista de afazres, no qual, por meio de uma inter
    - Bootstrap - Framework usado para dar um suporte na estilziação CSS.
    - Back4App - Usado para armazenar todos os dados recolhidos no site e sistematizar os checkout.
   
-## Implementação das Ferramentas e Tecnologias
+## Contéudo Exposto na Aplicação
 
 Para a desenvoltura do site foi feito um HTMl básico, contendo título, input, botão de adicionar e remover, além de algumas div, sendo a maioria usada pelo CSS, enquanto 
 que outra focada em, através do JS, alocar todos os dados. 
